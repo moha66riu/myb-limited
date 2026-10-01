@@ -4,7 +4,8 @@ Professional static website for **MYB LIMITED**, an information technology consu
 
 ## Live site
 
-- URL: https://moha66riu.github.io/myb-limited/
+- Primary URL: https://myblimited.co.uk/
+- GitHub Pages fallback: https://moha66riu.github.io/myb-limited/
 - Hosting: GitHub Pages
 - HTTPS: Enabled by the hosting platform
 

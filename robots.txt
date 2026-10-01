@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://moha66riu.github.io/myb-limited/sitemap.xml
+Sitemap: https://myblimited.co.uk/sitemap.xml
