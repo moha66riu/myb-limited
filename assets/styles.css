@@ -129,7 +129,7 @@ input:focus, textarea:focus { outline: 3px solid #dbeafe; border-color: var(--br
 
 .site-footer { padding: 56px 0 25px; color: #cbd5e1; background: #0b1220; }
 .footer-grid { display: grid; grid-template-columns: 1.2fr .75fr 1fr; gap: 50px; padding-bottom: 40px; }
-.footer-logo { width: 210px; filter: brightness(0) invert(1); }
+.footer-logo { width: 210px; }
 .footer-copy { max-width: 380px; margin: 18px 0 0; color: #94a3b8; font-size: .93rem; }
 .footer-title { margin: 0 0 14px; color: #fff; font-size: .79rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 .footer-links { display: grid; gap: 8px; }
