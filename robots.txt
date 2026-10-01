@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moha66riu.github.io/myb-limited/sitemap.xml
